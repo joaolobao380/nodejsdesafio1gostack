@@ -24,7 +24,7 @@ $ git clone https://github.com/joaolobao380/nodejsdesafio1gostack
 
 ### Install Back
 ```bash
-
+# Go into the nodejsdesafio1gostack path
 $ cd nodejsdesafio1gostack
 
 # Install dependencies
