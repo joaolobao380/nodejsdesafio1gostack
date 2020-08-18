@@ -8,6 +8,8 @@
 </h3>
 
 
+<h4>The API was made in the most basic way possible, still without any persistence mechanism, however, in perfect working order to implement such changes</h4>
+
 ## :rocket: BACK-END
 -   <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="20px" height="15px"> [NodeJS](https://nodejs.org/en/)
 -   [Express](https://expressjs.com/pt-br/)
